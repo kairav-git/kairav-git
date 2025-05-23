@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | UI/UX Lover | Where Code Meets Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Front-end+Developer;Crafting+Responsive+UIs;Passionate+About+Clean+Design+and+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Front-end+Developer;Crafting+Responsive+UIs;Passionate+About+Clean+Design" alt="Typing SVG" />
 </p>
 
 ---

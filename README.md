@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kairavjoshi2013@gmail.com">
+  <a href="mailto:kairavjoshi2015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/kairavjoshi" target="[_blank](https://www.linkedin.com/in/kairav-j-874a87187/)">
+  <a href="https://www.linkedin.com/in/kairav-j-874a87187/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://github.com/KairavJoshi](https://github.com/kairav-git/kairav-git)">
+  <a href="https://github.com/kairav-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kairav-git&label=Profile+Views&color=F97316&style=for-the-badge" alt="Profile Views" />
@@ -118,13 +118,11 @@ I'm a **Frontend Developer** based in India with a passion for turning ideas int
 
 ---
 
-### 📊 Most Used Languages
+### 🗣️ Most Used Languages
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairavJoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairav-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
 </p>
-
-> 💡 Contribution graph reflects public activity only. Most of my work lives in private repositories.
 
 ---
 
@@ -174,14 +172,6 @@ I'm a **Frontend Developer** based in India with a passion for turning ideas int
 🌐 3D web experiences with Babylon.js
 ⚡ FastAPI for high-performance Python backends
 ```
-
----
-
-### 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
 
 ---
 
